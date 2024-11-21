@@ -1,0 +1,71 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS-related
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+
+# Windows-related
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Machine Learning and Dataset Artifacts
+*.model
+*.pkl
+*.h5
+*.joblib
+*.sav
+
+# Streamlit Cache and Temporary Files
+.streamlit/
+*.stcache
+*.stfolder
+
+# Logs and Temporary Files
+*.log
+*.out
+*.err
+*.tmp
+*.temp
+*.~lock.*
+~$*
+
+# Build directories and virtual environments
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Dependency Files
+Pipfile
+Pipfile.lock
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+#CSV Files
+*.csv
+
