@@ -62,6 +62,3 @@ Pipfile.lock
 .DS_Store
 Thumbs.db
 
-#CSV Files
-*.csv
-
