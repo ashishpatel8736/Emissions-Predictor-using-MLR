@@ -117,6 +117,6 @@ st.markdown("""
 # Footer with links
 st.markdown("""
 ---
-**Developed by [Your Name](https://github.com/YourGitHub)**  
+**Developed by [Ashish Patel](https://github.com/YourGitHub)**  
 Powered by **Streamlit**, **Scikit-learn**, and **Python**.
 """)
