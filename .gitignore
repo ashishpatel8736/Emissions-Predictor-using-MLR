@@ -33,12 +33,6 @@ Desktop.ini
 *.sublime-workspace
 *.sublime-project
 
-# Machine Learning and Dataset Artifacts
-*.model
-*.pkl
-*.h5
-*.joblib
-*.sav
 
 # Streamlit Cache and Temporary Files
 .streamlit/
