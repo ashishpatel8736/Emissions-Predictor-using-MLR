@@ -39,11 +39,11 @@
 ├──  ridge_tuned_model.pkl
 ├──  scaler.pkl
 ├──  CO2 Emissions Predictor using MLR.ipynb
-├── README.md                 
-├── vehicle_data.csv 
-├── requirements.txt           
-├── LICENSE                   
-├── banner_md.jpeg             
+├──  README.md                 
+├──  vehicle_data.csv 
+├──  requirements.txt           
+├──  LICENSE                   
+├──  banner_md.jpeg             
 ```
 
 ---
